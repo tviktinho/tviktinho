@@ -6,10 +6,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas ferramen
 ## 🚀 Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias com as quais já trabalhei em meus projetos:
 
-### **📡 Sistemas Distribuídos e Redes**
-- 🔗 **Sockets** (Desenvolvimento de aplicações Cliente/Servidor)
-- 🔄 **MultiThreading** (Concorrência em aplicações distribuídas)
-- 🛰️ **Protocolos de Comunicação** (Alternating Bit Protocol - ABP, Go-Back-N, Transmissão Seletiva)
 
 ### **🌍 Desenvolvimento Web e Mobile**
 - ⚡ **PWA (Progressive Web Apps)**
