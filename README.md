@@ -20,24 +20,47 @@ Aqui estão algumas das tecnologias com as quais já trabalhei em meus projetos:
 - 🌐 **HTML, CSS, JavaScript, PHP** (Desenvolvimento web full-stack)
 - 🅰️ **Angular** (Framework para aplicações SPA)
 - 📱 **Android Studio, Swift, Ionic** (Desenvolvimento mobile híbrido e nativo)
+- 🎮 **UnoJoy** (Integração de hardware com Arduino para emulação de joystick)
 
 ### **📊 Processamento e Armazenamento de Dados**
 - 🔥 **Firebase** (Armazenamento em tempo real e autenticação)
 - 🏠 **Redis** (Armazenamento distribuído em memória)
 - 🗄️ **SQLite / PostgreSQL** (Bancos de dados relacionais)
 
+### **📚 Frameworks e Bibliotecas**
+- 🖼️ **OpenCV** (Processamento digital de imagens)
+- 📊 **NumPy / Pandas** (Análise e manipulação de dados)
+- 🤖 **Scikit-learn** (Machine Learning e análise de dados)
+- 📈 **Matplotlib / Seaborn** (Visualização de dados)
+- 🤖 **MetaTrader 5 API** (Automação de estratégias de trading)
+
+### **🔧 Plataformas e Ferramentas**
+- 📊 **MetaTrader 5** (Backtests, operações automatizadas)
+- 🔬 **Arduino** (Monitoramento muscular com ECGs)
+- 🛠 **Git/GitHub** (Controle de versão)
+- 🐧 **Linux** (Ambiente de desenvolvimento)
+- 🐳 **Docker** (Containerização)
+- 🕹️ **UnoJoy** (Interface Arduino para controle de entrada USB)
+- 💻 **Xcode** (Ambiente de desenvolvimento para macOS e iOS)
+- 🖥️ **Visual Studio Code** (Editor de código)
+- 🎛️ **Visual Studio** (IDE para desenvolvimento em diversas linguagens)
+
 ### **🔬 Pesquisa e Desenvolvimento**
 - 📡 **Sistemas de Navegação GPS e Servidores Distribuídos** (Integração de sistemas distribuídos para localização em tempo real)
+- 🖼️ **Processamento de imagens para identificação de sementes e hilos**
 - 📈 **Monitoramento Muscular com Sensores ECG** (Uso de sensores MyoWare 2.0 com Arduino para análise de esforço muscular)
 - ⚡ **Aplicações de Baixa Latência** (Transmissão eficiente de dados em redes distribuídas)
+- 📊 **Expert Advisor e Indicador para MetaTrader 5**
 
 ### **🖥️ Linguagens de Programação**
 - 🐍 **Python**
 - ☕ **Java**
-- 🏗️ **C / C++**
+- 🏗️ **C/C++**
 - 📜 **JavaScript**
 - 🖥️ **PHP**
 - 🍏 **Swift**
+- 🔍 **Prolog**
+- 📉 **MQL5**
 
 ### **📚 Documentação e LaTeX**
 - 📄 **SBC LaTeX** (Documentação acadêmica para conferências e artigos)
@@ -46,7 +69,7 @@ Aqui estão algumas das tecnologias com as quais já trabalhei em meus projetos:
 ---
 
 ## 📫 Entre em Contato
-- **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/victor-louren%C3%A7ato-brizante-828a09123/)]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/victor-louren%C3%A7ato-brizante-828a09123/)
 - **E-mail:** [victorbrizante@gmail.com]
 
 💡 Sempre aberto a novos desafios e oportunidades de colaboração! 🚀
