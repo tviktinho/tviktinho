@@ -1,5 +1,5 @@
 # 💻 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas ferramentas e metodologias para criar soluções eficientes e inovadoras. Tenho experiência com diversas tecnologias, incluindo desenvolvimento de sistemas distribuídos, aplicações web, bots para Discord e protocolos de comunicação em redes.
+Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas ferramentas e metodologias para criar soluções eficientes e inovadoras. Tenho experiência com diversas tecnologias, incluindo desenvolvimento de sistemas distribuídos, aplicações web, computação móvel e protocolos de comunicação em redes.
 
 ---
 
@@ -11,29 +11,33 @@ Aqui estão algumas das tecnologias com as quais já trabalhei em meus projetos:
 - 🔄 **MultiThreading** (Concorrência em aplicações distribuídas)
 - 🛰️ **Protocolos de Comunicação** (Alternating Bit Protocol - ABP, Go-Back-N, Transmissão Seletiva)
 
-### **🌍 Desenvolvimento Web e PWA**
+### **🌍 Desenvolvimento Web e Mobile**
 - ⚡ **PWA (Progressive Web Apps)**
 - 🛠️ **Node.js** (Backend para aplicações web)
 - 📡 **WebSockets (Socket.io)** (Comunicação em tempo real)
 - 🗺️ **Leaflet.js / OpenLayers** (Mapas interativos para visualização de dados GPS)
 - 🌎 **Flask + Electron** (Interfaces para aplicações distribuídas)
+- 🌐 **HTML, CSS, JavaScript, PHP** (Desenvolvimento web full-stack)
+- 🅰️ **Angular** (Framework para aplicações SPA)
+- 📱 **Android Studio, Swift, Ionic** (Desenvolvimento mobile híbrido e nativo)
 
 ### **📊 Processamento e Armazenamento de Dados**
 - 🔥 **Firebase** (Armazenamento em tempo real e autenticação)
 - 🏠 **Redis** (Armazenamento distribuído em memória)
 - 🗄️ **SQLite / PostgreSQL** (Bancos de dados relacionais)
 
-### **🤖 Bots para Discord**
-- 🎮 **discord.js** (Bot para interação e coleta de dados no Discord)
-- 🐍 **discord.py** (Automação e gerenciamento de servidores)
-- 🏷️ **Gerenciamento de Cargos e Apelidos**
-- 🔍 **Monitoramento e Logging em Canais do Discord**
-- 🏗️ **Integração com Firebase** (Armazenamento e recuperação de informações de usuários)
-
 ### **🔬 Pesquisa e Desenvolvimento**
 - 📡 **Sistemas de Navegação GPS e Servidores Distribuídos** (Integração de sistemas distribuídos para localização em tempo real)
 - 📈 **Monitoramento Muscular com Sensores ECG** (Uso de sensores MyoWare 2.0 com Arduino para análise de esforço muscular)
 - ⚡ **Aplicações de Baixa Latência** (Transmissão eficiente de dados em redes distribuídas)
+
+### **🖥️ Linguagens de Programação**
+- 🐍 **Python**
+- ☕ **Java**
+- 🏗️ **C / C++**
+- 📜 **JavaScript**
+- 🖥️ **PHP**
+- 🍏 **Swift**
 
 ### **📚 Documentação e LaTeX**
 - 📄 **SBC LaTeX** (Documentação acadêmica para conferências e artigos)
