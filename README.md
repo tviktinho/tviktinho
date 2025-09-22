@@ -59,6 +59,7 @@ Aqui estão algumas das tecnologias com as quais já trabalhei em meus projetos:
 - 📉 **MQL5**
 
 [![](https://github-readme-stats.vercel.app/api?username=tviktinho)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tviktinho)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **📚 Documentação e LaTeX**
 - 📄 **SBC LaTeX** (Documentação acadêmica para conferências e artigos)
