@@ -58,7 +58,7 @@ Aqui estão algumas das tecnologias com as quais já trabalhei em meus projetos:
 - 🔍 **Prolog**
 - 📉 **MQL5**
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tviktinho&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tviktinho&langs_count=12&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api?username=tviktinho)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **📚 Documentação e LaTeX**
